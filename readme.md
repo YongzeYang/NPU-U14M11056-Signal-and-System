@@ -6,7 +6,7 @@
 
 [实验二](https://github.com/YongzeYang/NPU-U14M11056-Signal-and-System/blob/main/experiments/ex2.md)
 
-[实验三](https://github.com/YongzeYang/NPU-U14M11056-Signal-and-System/blob/main/experiments/ex3.md)
+[实验三](https://github.com/YongzeYang/NPU-U14M11056-Signal-and-System/blob/main/experiments/ex3.md) （注意：第二部分可能存在问题）
 
 [实验四](https://github.com/YongzeYang/NPU-U14M11056-Signal-and-System/blob/main/experiments/ex4.md)
 
